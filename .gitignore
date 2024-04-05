@@ -39,11 +39,11 @@ bower_components
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
 
 # misc
 .sass-cache
@@ -100,7 +100,7 @@ Thumbs.db
 .idea
 .temp
 .vite_opt_cache
-.vscode
+#.vscode
 dist
 cache
 temp
