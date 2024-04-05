@@ -108,3 +108,5 @@ examples-temp
 node_modules
 pnpm-global
 TODOs.md
+/desktop.ini
+/folderico-azure.ico
